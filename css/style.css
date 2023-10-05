@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 
 body {
@@ -32,6 +34,8 @@ body {
 .input {
     width: 75%;
     height: 4vh;
+    outline: none;
+    background-color: #ffffff;
 }
 
 .div-resultado {
@@ -44,4 +48,6 @@ body {
 .btn {
     width: 100%;
     height: 4vh;
+    background-color: rgb(66, 66, 70);
+    color: #ffffff;
 }
